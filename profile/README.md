@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/44893939/236178174-03696612-4a5e-45b1-8ec9-9cd3a8045d6f.png" width="60" height="60">
+<img src="https://github.com/QuickVerse/.github/assets/70273/5b243bb9-c36a-4318-8486-361ff571ab09" width="60" height="60">
 
 ## Welcome to QuickVerse! 👋
 
